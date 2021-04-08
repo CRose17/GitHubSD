@@ -1,0 +1,41 @@
+body, html {
+    background-color: antiquewhite;
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font: 40px Papyrus, "Times New Roman", Serif;
+}
+
+h2 {
+    font: 40px "Lucida Handwriting", "Sans Serif";
+    border: blueviolet dotted 12px;
+    text-align: center;
+}
+
+li {
+    font: 16px Arial, Georgia, Serif;
+}
+
+.image1 {
+    border: crimson solid 7px;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.image2 {
+    border: rgb(71, 48, 114) double 10px;
+    width: 30%;
+}
+
+nav {
+    font: 20px Papyrus, Serif;
+}
+
+.image4 {
+    width: 50%;
+    object-fit: scale-down;   
+}
